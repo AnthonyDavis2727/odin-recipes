@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    margin: 20px auto;
+}
+
+h1 {
+    padding: 20px 0px;
+}
+
+img {
+    height: auto;
+    width: 512px;
+}
+
+h2 {
+    padding: 10px;
+}
+
+.no-decor {
+    text-decoration: none;
+    color: black;
+}
+
+.recipes {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    margin-right: 30px;
+}
